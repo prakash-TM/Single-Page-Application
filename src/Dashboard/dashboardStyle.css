@@ -1,0 +1,11 @@
+.menu-textarea-align {
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-bg {
+    background-color: rgb(19, 35, 83);
+    color: white;
+    height: 100vh;
+    width: 25%;
+}
